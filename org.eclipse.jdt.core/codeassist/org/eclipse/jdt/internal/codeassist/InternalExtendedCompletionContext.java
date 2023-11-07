@@ -795,7 +795,6 @@ public class InternalExtendedCompletionContext {
 									continue next;
 								}
 							}
-							continue next;
 						}
 						for (int f = 0; f < localsFound.size; f++) {
 							LocalVariableBinding otherLocal =
